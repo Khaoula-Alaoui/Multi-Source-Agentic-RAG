@@ -1,0 +1,22 @@
+
+# Document Processing and Retrieval
+sentence-transformers
+faiss-cpu
+pypdf
+
+# Data Processing
+numpy
+pandas
+
+# LLM and Web Search
+openai
+tavily-python
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook and Display
+jupyter
+ipython
+rich
